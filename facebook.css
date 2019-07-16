@@ -1,0 +1,57 @@
+.container {
+	background-color: blue;
+	height: 100px;
+	padding-top: 50px;
+.form {
+	border: px solid white
+	width: 70px;
+	height: 70px;
+}
+
+.cont {
+	background-color: tomato;
+	height: 70px;
+	width: 400px;
+	margin-left: 1000px;
+	margin-bottom: 0px;
+	padding-left: 10px;
+
+
+
+}
+.password{
+	background-color: yellow;
+	height: 40px;
+	width: 200px;
+	margin-left: 170px;
+	margin-bottom: 20px;
+	padding-left: 10px;
+	marker-mid: 10px;
+
+
+}
+.facebook {
+	font-style: Arial;
+	color: White;
+	font-weight: 100px;
+	margin-left: 200px
+
+
+}
+.admit {
+	background-color: navy;
+	margin-left: 500px;
+	margin-top: 20px;
+	margin-bottom: 30px
+	width 300px
+
+
+}
+.ad {
+	background-color: navy;
+	margin-left: 450px;
+	margin-top: 0px;
+	margin-bottom: 30px
+	width 500px
+
+}

@@ -1,0 +1,22 @@
+/*.para {
+	color: blue;
+}
+.paragaf{
+	color: green;
+}
+#note {
+	color: yellow;
+}*/
+.form {
+	width: 250px;
+	height: 30px;
+	border: none;
+	outline: none;
+	border-bottom: 5px solid green;
+
+}
+.form:focus {
+	border-bottom: 5px solid navy;
+	margin-left: 10px;
+	transition: 2s;
+}
